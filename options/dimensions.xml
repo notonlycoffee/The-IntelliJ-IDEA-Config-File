@@ -1,0 +1,88 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="463" y="111" />
+    <location key="#Tomcat_Server.0.0.1366.768" x="461" y="249" />
+    <location key="new project wizard.0.0.1366.768" x="308" y="0" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="683" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="390" y="174" />
+    <location key="#HTTP_Proxy.0.0.1366.768" x="456" y="59" />
+    <location key="#Custom_Plugin_Repositories.0.0.1366.768" x="521" y="247" />
+    <location key="#Browse_Repositories.0.0.1366.768" x="263" y="12" />
+    <location key="OptionsEditor.0.0.1366.768" x="218" y="0" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="189" y="20" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1366.768" x="401" y="194" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1366.768" x="123" y="108" />
+    <location key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.0.1366.768" x="352" y="95" />
+    <location key="StructurePopup.0.0.1366.768" x="461" y="148" />
+    <location key="#Project_Structure.0.0.1366.768" x="149" y="0" />
+    <location key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog.0.0.1366.768" x="440" y="68" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1366.768" x="467" y="20" />
+    <location key="OptionsEditor.0.0.0.0" x="20" y="0" />
+    <location key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog.0.0.1366.768" x="453" y="144" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1366.768" x="377" y="92" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="488" y="65" />
+    <location key="GitCloneDialog.0.0.1366.768" x="489" y="220" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1366.768" x="413" y="103" />
+    <location key="NewModule_or_Project.wizard.0.0.1366.768" x="321" y="0" />
+    <location key="#com.intellij.javaee.module.view.web.EditWebRootDialog.0.0.1366.768" x="334" y="268" />
+    <location key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath.0.0.1366.768" x="373" y="282" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.1366.768" x="375" y="67" />
+    <location key="org.jetbrains.idea.maven.utils.RepositoryAttachDialog.0.0.1366.768" x="243" y="251" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.0.0.1366.768" x="217" y="89" />
+    <location key="DetectedRootsChooserDialog.0.0.1366.768" x="437" y="72" />
+    <location key="#xdebugger.XInspectDialog.0.0.1366.768" x="562" y="111" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="377" y="152" />
+    <location key="#bookstory_tomcat.0.0.1366.768" x="361" y="0" />
+    <location key="#BuildArtifactsBeforeRunChooser.0.0.1366.768" x="515" y="170" />
+    <location key="#TomEE_Server.0.0.1366.768" x="514" y="257" />
+    <location key="#tomcat_bookstore.0.0.1366.768" x="361" y="0" />
+    <location key="#tomcat.0.0.1366.768" x="361" y="0" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" x="413" y="112" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1366.768" x="855" y="0" />
+    <location key="findTextDialog.0.0.1366.768" x="473" y="104" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1366.768" x="507" y="214" />
+    <location key="SimpleOpenTaskDialog.0.0.1366.768" x="588" y="289" />
+    <location key="#Servers.0.0.1366.768" x="46" y="124" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1318" height="140" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1318" height="140" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1318" height="140" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1318" height="140" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1322" height="230" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1322" height="230" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1322" height="230" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1322" height="230" />
+    <size key="GridCell.Tab.2.left.0.0.1366.768" width="1322" height="230" />
+    <size key="GridCell.Tab.2.center.0.0.1366.768" width="1322" height="230" />
+    <size key="GridCell.Tab.2.right.0.0.1366.768" width="1322" height="230" />
+    <size key="GridCell.Tab.2.bottom.0.0.1366.768" width="1322" height="230" />
+    <size key="GridCell.Tab.3.left.0.0.1366.768" width="1322" height="209" />
+    <size key="GridCell.Tab.3.center.0.0.1366.768" width="1322" height="209" />
+    <size key="GridCell.Tab.3.right.0.0.1366.768" width="1322" height="209" />
+    <size key="GridCell.Tab.3.bottom.0.0.1366.768" width="1322" height="209" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1366.768" width="1182" height="544" />
+    <size key="StructurePopup.0.0.1366.768" width="428" height="392" />
+    <size key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog.0.0.1366.768" width="635" height="594" />
+    <size key="GridCell.Tab.4.left.0.0.1366.768" width="1322" height="198" />
+    <size key="GridCell.Tab.4.center.0.0.1366.768" width="1322" height="198" />
+    <size key="GridCell.Tab.4.right.0.0.1366.768" width="1322" height="198" />
+    <size key="GridCell.Tab.4.bottom.0.0.1366.768" width="1322" height="198" />
+    <size key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath.0.0.1366.768" width="525" height="163" />
+    <size key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" width="541" height="597" />
+    <size key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.1366.768" width="440" height="594" />
+    <size key="new project wizard.0.0.1366.768" width="823" height="728" />
+    <size key="OptionsEditor.0.0.1366.768" width="1040" height="728" />
+    <size key="javadoc.popup.0.0.1366.768" width="502" height="127" />
+    <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.0.0.1366.768" width="932" height="554" />
+    <size key="XDebugger.FullValuePopup.0.0.1366.768" width="693" height="374" />
+    <size key="#bookstory_tomcat.0.0.1366.768" width="719" height="743" />
+    <size key="#tomcat_bookstore.0.0.1366.768" width="651" height="743" />
+    <size key="#tomcat.0.0.1366.768" width="651" height="728" />
+    <size key="GridCell.Tab.5.left.0.0.1366.768" width="1322" height="198" />
+    <size key="GridCell.Tab.5.center.0.0.1366.768" width="1322" height="198" />
+    <size key="GridCell.Tab.5.right.0.0.1366.768" width="1322" height="198" />
+    <size key="GridCell.Tab.5.bottom.0.0.1366.768" width="1322" height="198" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
+  </component>
+</application>

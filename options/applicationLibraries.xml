@@ -1,0 +1,128 @@
+<application>
+  <component name="libraryTable">
+    <library name="c3p0-0.9.2-pre1">
+      <CLASSES>
+        <root url="jar://G:/开发库/c3p0-0.9.2-pre1/lib/c3p0-0.9.2-pre1.jar!/" />
+        <root url="jar://G:/开发库/c3p0-0.9.2-pre1/lib/mchange-commons-0.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="commons-beanutils-1.8.0">
+      <CLASSES>
+        <root url="jar://G:/开发库/beanUtils/commons-beanutils/commons-beanutils-1.8.0.jar!/" />
+        <root url="jar://G:/开发库/beanUtils/commons-logging-1.2/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="commons-dbutils-1.2">
+      <CLASSES>
+        <root url="jar://G:/开发库/commons-dbutils-1.2/commons-dbutils-1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="commons-fileupload-1.2.1">
+      <CLASSES>
+        <root url="jar://G:/开发库/commons-fileupload-1.2.1/lib/commons-fileupload-1.2.1.jar!/" />
+        <root url="jar://G:/开发库/commons-io-1.4/commons-io-1.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="mysql-connector-java-5.0.8-bin">
+      <CLASSES>
+        <root url="jar://G:/开发库/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8-bin.jar!/" />
+        <root url="jar://G:/开发库/mysql-connector-java-5.0.8/src/lib/commons-logging.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="struts1.3.10">
+      <CLASSES>
+        <root url="file://G:/开发库/struts-1.3.10-all/struts-1.3.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://G:/开发库/struts-1.3.10-all/struts-1.3.10/lib" recursive="false" />
+    </library>
+    <library name="struts2_blank_lib">
+      <CLASSES>
+        <root url="jar://G:/开发库/struts-2.3.20-all/my_blank_lib/asm-5.0.2.jar!/" />
+        <root url="jar://G:/开发库/struts-2.3.20-all/my_blank_lib/asm-commons-5.0.2.jar!/" />
+        <root url="jar://G:/开发库/struts-2.3.20-all/my_blank_lib/asm-tree-5.0.2.jar!/" />
+        <root url="jar://G:/开发库/struts-2.3.20-all/my_blank_lib/commons-fileupload-1.3.1.jar!/" />
+        <root url="jar://G:/开发库/struts-2.3.20-all/my_blank_lib/commons-io-2.2.jar!/" />
+        <root url="jar://G:/开发库/struts-2.3.20-all/my_blank_lib/commons-lang3-3.2.jar!/" />
+        <root url="jar://G:/开发库/struts-2.3.20-all/my_blank_lib/freemarker-2.3.19.jar!/" />
+        <root url="jar://G:/开发库/struts-2.3.20-all/my_blank_lib/javassist-3.11.0.GA.jar!/" />
+        <root url="jar://G:/开发库/struts-2.3.20-all/my_blank_lib/log4j-1.2.17.jar!/" />
+        <root url="jar://G:/开发库/struts-2.3.20-all/my_blank_lib/ognl-3.0.6.jar!/" />
+        <root url="jar://G:/开发库/struts-2.3.20-all/my_blank_lib/struts2-core-2.3.20.jar!/" />
+        <root url="jar://G:/开发库/struts-2.3.20-all/my_blank_lib/xwork-core-2.3.20.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/apps/blank/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/apps/blank/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/apps/mailreader/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/apps/portlet/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/apps/portlet/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/apps/rest-showcase/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/apps/rest-showcase/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/apps/showcase/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/apps/showcase/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/core/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/core/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/cdi/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/cdi/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/codebehind/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/codebehind/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/config-browser/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/convention/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/convention/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/dojo/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/dojo/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/dwr/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/embeddedjsp/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/embeddedjsp/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/gxp/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/jasperreports/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/javatemplates/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/javatemplates/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/jfreechart/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/jfreechart/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/jsf/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/json/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/json/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/junit/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/junit/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/osgi/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/osgi/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/oval/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/oval/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/pell-multipart/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/plexus/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/portlet-tiles/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/portlet/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/portlet/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/rest/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/rest/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/sitegraph/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/sitegraph/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/sitemesh/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/spring/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/spring/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/struts1/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/struts1/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/testng/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/testng/src/test/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/tiles3/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/plugins/tiles/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/xwork-core/src/main/java" />
+        <root url="file://G:/开发库/struts-2.3.20-all/struts-2.3.20/src/xwork-core/src/test/java" />
+      </SOURCES>
+    </library>
+  </component>
+</application>

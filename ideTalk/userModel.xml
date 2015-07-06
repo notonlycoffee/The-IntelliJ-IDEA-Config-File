@@ -1,0 +1,14 @@
+<users>
+  <myUsers class="set">
+    <user>
+      <myName>Administrator</myName>
+      <myGroup>day26</myGroup>
+      <myDisplayName>Administrator</myDisplayName>
+      <myCanAccessMyFiles>false</myCanAccessMyFiles>
+      <myTransportCode>P2P</myTransportCode>
+    </user>
+  </myUsers>
+  <myGroups class="set">
+    <string>day26</string>
+  </myGroups>
+</users>
