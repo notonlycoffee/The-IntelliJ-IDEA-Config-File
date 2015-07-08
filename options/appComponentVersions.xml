@@ -7,18 +7,18 @@
   <component name="DaemonCodeAnalyzerSettings" version="1436095352675" />
   <component name="DatabaseSettings" version="1433002493176" />
   <component name="DebuggerSettings" version="1436108828699" />
-  <component name="DimensionService" version="1436108620181" />
-  <component name="EditorColorsManagerImpl" version="1432945595130" />
+  <component name="DimensionService" version="1436281698112" />
+  <component name="EditorColorsManagerImpl" version="1436281120263" />
   <component name="EditorSettings" version="1436108742436" />
   <component name="ExportableTemplateSettings" version="1435974237650" />
-  <component name="ExternalResourceManagerImpl" version="1436108201062" />
-  <component name="FeatureUsageStatistics" version="1436109621386" />
+  <component name="ExternalResourceManagerImpl" version="1436280572479" />
+  <component name="FeatureUsageStatistics" version="1436281670310" />
   <component name="FileBasedIndex" version="1432944406600" />
   <component name="FileEditorProviderManager" version="1433751145591" />
   <component name="FileTypeManager" version="1433952097338" />
   <component name="FindRecents" version="1435846718817" />
   <component name="FindSettings" version="1435331200409" />
-  <component name="GeneralSettings" version="1436108201079" />
+  <component name="GeneralSettings" version="1436280572498" />
   <component name="Git.Application.Settings" version="1433550132249" />
   <component name="Images.OptionsManager" version="1433032089790" />
   <component name="JRebel Persistent Settings" version="1435321269891" />
@@ -34,24 +34,24 @@
   <component name="PluginManagerConfigurable" version="1433980488388" />
   <component name="PrintSettings" version="1433377774712" />
   <component name="ProjectJdkTable" version="1432944526557" />
-  <component name="ProjectManager" version="1436108277521" />
+  <component name="ProjectManager" version="1436280587965" />
   <component name="PropertiesComponent" version="1435939603461" />
-  <component name="RecentProjectsManager" version="1436109670109" />
+  <component name="RecentProjectsManager" version="1436281698144" />
   <component name="RefactoringSettings" version="1434506990094" />
   <component name="Registry" version="1432944526563" />
   <component name="RunnerLayoutSettings" version="1435390984161" />
   <component name="SelectProjectTemplateSettings" version="1433416718451" />
-  <component name="StatisticsApplicationUsages" version="1436109670111" />
+  <component name="StatisticsApplicationUsages" version="1436281698159" />
   <component name="TemplateSettings" version="1432945595180" />
   <component name="ToStringTemplates" version="1434191683408" />
   <component name="TodoConfiguration" version="1432944526564" />
-  <component name="UISettings" version="1436107978282" />
+  <component name="UISettings" version="1436280572578" />
   <component name="UpdatesConfigurable" version="1433033438700" />
-  <component name="UsageTrigger" version="1436109106565" />
+  <component name="UsageTrigger" version="1436281670337" />
   <component name="UsagesStatistic" version="1433465227486" />
   <component name="WebBrowsersConfiguration" version="1432945595184" />
   <component name="WebServers" version="1432944526585" />
-  <component name="WindowManager" version="1436109670114" />
+  <component name="WindowManager" version="1436281602996" />
   <component name="XDebuggerSettings" version="1432944816207" />
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl" version="1435939601018" />
   <component name="libraryTable" version="1435127490731" />
