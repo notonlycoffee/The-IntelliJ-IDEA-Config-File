@@ -1,11 +1,9 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>IndexServlet</find>
       <find>uri</find>
       <find>&lt;uri</find>
       <find>managers</find>
-      <find>manager</find>
       <find>dynaformtest</find>
       <find>form-beans</find>
       <find>REQUIRED</find>
@@ -18,6 +16,11 @@
       <find>schedule</find>
       <find>baidu</find>
       <find>点击这个</find>
+      <find>jstl</find>
+      <find>�</find>
+      <find>manager</find>
+      <find>managers.jsp</find>
+      <find>IndexServlet</find>
     </findStrings>
     <replaceStrings>
       <replace>FUCK</replace>

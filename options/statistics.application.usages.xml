@@ -1,9 +1,8 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="libraries">
-      <project id="bookstore" values="JMS,TransactionJavaee,EJB" />
-      <project id="testidea" values="EJB,JMS,TransactionJavaee" />
       <project id="struts0716" values="struts2" />
+      <project id="testidea" values="EJB,TransactionJavaee,JMS" />
       <project id="helloStruts" values="struts2" />
       <project id="day26" values="JMS,EJB,TransactionJavaee" />
     </group>
@@ -22,8 +21,8 @@
       <project id="day24_proxy" values="JDK_1_6" />
       <project id="java_improve" values="JDK_1_6" />
       <project id="TestServlet" values="JDK_1_6" />
-      <project id="MyTest" values="JDK_1_6" />
       <project id="bookstore" values="JDK_1_6" />
+      <project id="MyTest" values="JDK_1_6" />
       <project id="StudyIDEA" values="JDK_1_6" />
       <project id="testidea" values="JDK_1_6" />
       <project id="strutstestlast" values="JDK_1_6" />
@@ -38,16 +37,16 @@
       <project id="TestFilter" values="web" />
       <project id="struts0716" values="Struts2,web" />
       <project id="day29_mvc" values="web" />
-      <project id="helloStruts" values="web,Struts2" />
+      <project id="helloStruts" values="Struts2,web" />
       <project id="TestStruts2" values="struts,web" />
-      <project id="TestStruts1" values="web,struts" />
+      <project id="TestStruts1" values="struts,web" />
       <project id="Struts1" values="struts,web" />
       <project id="StudyIDEAForWeb" values="web" />
       <project id="ServletThreePointZero" values="web" />
       <project id="day24_proxy" values="web" />
       <project id="TestServlet" values="web" />
-      <project id="MyTest" values="web" />
       <project id="bookstore" values="web" />
+      <project id="MyTest" values="web" />
       <project id="testidea" values="struts,web" />
       <project id="strutstestlast" values="struts,web" />
       <project id="day26" values="web,struts" />
@@ -64,11 +63,11 @@
       <project id="ServletThreePointZero" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
       <project id="day24_proxy" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
       <project id="TestServlet" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
-      <project id="MyTest" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
       <project id="bookstore" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="MyTest" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
       <project id="testidea" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
       <project id="strutstestlast" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
-      <project id="day26" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local,Application" />
+      <project id="day26" values="Application,#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
     </group>
     <group name="module type">
       <project id="bookstoretest" values="JAVA_MODULE" />
@@ -85,8 +84,8 @@
       <project id="day24_proxy" values="JAVA_MODULE" />
       <project id="java_improve" values="JAVA_MODULE" />
       <project id="TestServlet" values="JAVA_MODULE" />
-      <project id="MyTest" values="JAVA_MODULE" />
       <project id="bookstore" values="JAVA_MODULE" />
+      <project id="MyTest" values="JAVA_MODULE" />
       <project id="StudyIDEA" values="JAVA_MODULE" />
       <project id="testidea" values="JAVA_MODULE" />
       <project id="strutstestlast" values="JAVA_MODULE" />
@@ -99,26 +98,26 @@
       <project id="day26" values="Application" />
     </group>
     <group name="file-type">
-      <project id="bookstoretest" values="Manifest,JAVA,JSP,PLAIN_TEXT,Properties,UNKNOWN,Images,XML,IDEA_MODULE,ARCHIVE,Eclipse" />
-      <project id="day24" values="UNKNOWN,XML,IDEA_MODULE,PLAIN_TEXT,JAVA" />
-      <project id="TestFilter" values="XML,UNKNOWN,JSP,PLAIN_TEXT,IDEA_MODULE,JAVA" />
-      <project id="struts0716" values="Images,UNKNOWN,IDEA_MODULE,Native,PLAIN_TEXT,XML,JSP,Properties,JAVA" />
-      <project id="day29_mvc" values="JAVA,PLAIN_TEXT,UNKNOWN,JSP,XML,IDEA_MODULE" />
-      <project id="helloStruts" values="ARCHIVE,PLAIN_TEXT,JAVA,XML,UNKNOWN,JSP,IDEA_MODULE" />
-      <project id="TestStruts2" values="JSP,JAVA,ARCHIVE,PLAIN_TEXT,IDEA_MODULE,XML,UNKNOWN" />
-      <project id="TestStruts1" values="UNKNOWN,XML,JSP,IDEA_MODULE,ARCHIVE" />
-      <project id="Struts1" values="ARCHIVE,JSP,JAVA,PLAIN_TEXT,IDEA_MODULE,XML,UNKNOWN" />
-      <project id="StudyIDEAForWeb" values="XML,IDEA_MODULE,HTML,PLAIN_TEXT,JSP,UNKNOWN" />
-      <project id="ServletThreePointZero" values="JSP,UNKNOWN,XML,IDEA_MODULE,PLAIN_TEXT,JAVA" />
-      <project id="day24_proxy" values="JAVA,IDEA_MODULE,JSP,UNKNOWN,XML,PLAIN_TEXT" />
-      <project id="java_improve" values="JAVA,UNKNOWN,PLAIN_TEXT,XML,IDEA_MODULE" />
-      <project id="TestServlet" values="JSP,IDEA_MODULE,PLAIN_TEXT,UNKNOWN,XML,JAVA" />
-      <project id="MyTest" values="XML,JAVA,PLAIN_TEXT,JSP,UNKNOWN,IDEA_MODULE" />
-      <project id="bookstore" values="IDEA_MODULE,ARCHIVE,JSP,Images,Eclipse,CLASS,JAVA,UNKNOWN,XML,Properties,Manifest,PLAIN_TEXT" />
-      <project id="StudyIDEA" values="CSS,PLAIN_TEXT,IDEA_MODULE,JAVA,UNKNOWN,HTML,XML" />
-      <project id="testidea" values="PLAIN_TEXT,JSP,IDEA_MODULE,XML,UNKNOWN,ARCHIVE,JAVA" />
-      <project id="strutstestlast" values="PLAIN_TEXT,JSP,UNKNOWN,ARCHIVE,XML,IDEA_MODULE" />
-      <project id="day26" values="XML,JSP,UNKNOWN,ARCHIVE,JAVA,PLAIN_TEXT,IDEA_MODULE,Properties" />
+      <project id="bookstoretest" values="Properties,ARCHIVE,JSP,JAVA,IDEA_MODULE,Manifest,PLAIN_TEXT,XML,Images,Eclipse,UNKNOWN" />
+      <project id="day24" values="IDEA_MODULE,PLAIN_TEXT,XML,UNKNOWN,JAVA" />
+      <project id="TestFilter" values="PLAIN_TEXT,JSP,XML,UNKNOWN,JAVA,IDEA_MODULE" />
+      <project id="struts0716" values="UNKNOWN,JSP,JAVA,Properties,PLAIN_TEXT,XML,Images,Native,IDEA_MODULE" />
+      <project id="day29_mvc" values="UNKNOWN,XML,JSP,JAVA,PLAIN_TEXT,IDEA_MODULE" />
+      <project id="helloStruts" values="JAVA,ARCHIVE,XML,UNKNOWN,IDEA_MODULE,PLAIN_TEXT,JSP" />
+      <project id="TestStruts2" values="JAVA,ARCHIVE,IDEA_MODULE,UNKNOWN,PLAIN_TEXT,JSP,XML" />
+      <project id="TestStruts1" values="JSP,IDEA_MODULE,UNKNOWN,ARCHIVE,XML" />
+      <project id="Struts1" values="IDEA_MODULE,XML,JAVA,JSP,ARCHIVE,PLAIN_TEXT,UNKNOWN" />
+      <project id="StudyIDEAForWeb" values="IDEA_MODULE,UNKNOWN,HTML,JSP,PLAIN_TEXT,XML" />
+      <project id="ServletThreePointZero" values="JAVA,JSP,PLAIN_TEXT,XML,UNKNOWN,IDEA_MODULE" />
+      <project id="day24_proxy" values="JAVA,PLAIN_TEXT,XML,JSP,UNKNOWN,IDEA_MODULE" />
+      <project id="java_improve" values="IDEA_MODULE,JAVA,UNKNOWN,PLAIN_TEXT,XML" />
+      <project id="TestServlet" values="XML,JSP,PLAIN_TEXT,IDEA_MODULE,UNKNOWN,JAVA" />
+      <project id="bookstore" values="IDEA_MODULE,JAVA,Properties,ARCHIVE,Images,Manifest,Eclipse,JSP,UNKNOWN,XML,PLAIN_TEXT" />
+      <project id="MyTest" values="PLAIN_TEXT,JAVA,UNKNOWN,JSP,IDEA_MODULE,XML" />
+      <project id="StudyIDEA" values="CSS,UNKNOWN,IDEA_MODULE,JAVA,XML,HTML,PLAIN_TEXT" />
+      <project id="testidea" values="PLAIN_TEXT,ARCHIVE,JSP,JAVA,UNKNOWN,IDEA_MODULE,XML" />
+      <project id="strutstestlast" values="UNKNOWN,PLAIN_TEXT,IDEA_MODULE,XML,JSP,ARCHIVE" />
+      <project id="day26" values="ARCHIVE,IDEA_MODULE,Properties,PLAIN_TEXT,XML,JAVA,JSP,UNKNOWN" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="bookstoretest" values="Project,Project" />
@@ -135,8 +134,8 @@
       <project id="day24_proxy" values="Project,Project" />
       <project id="java_improve" values="Project,Project" />
       <project id="TestServlet" values="Project,Project" />
-      <project id="MyTest" values="Project,Project" />
       <project id="bookstore" values="Project,Project" />
+      <project id="MyTest" values="Project,Project" />
       <project id="StudyIDEA" values="Project,Project" />
       <project id="testidea" values="Project,Project" />
       <project id="strutstestlast" values="Project,Project" />
@@ -157,8 +156,8 @@
       <project id="day24_proxy" values="DEFAULT" />
       <project id="java_improve" values="DEFAULT" />
       <project id="TestServlet" values="DEFAULT" />
-      <project id="MyTest" values="DEFAULT" />
       <project id="bookstore" values="DEFAULT" />
+      <project id="MyTest" values="DEFAULT" />
       <project id="StudyIDEA" values="DEFAULT" />
       <project id="testidea" values="DEFAULT" />
       <project id="strutstestlast" values="DEFAULT" />
@@ -170,14 +169,14 @@
       <entry feature="CreateFile.CreateFileAction" count="6" />
       <entry feature="CreateFile.CreateTaglibFileAction" count="1" />
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Coverage" count="1" />
-      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="18" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="71" />
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Debug" count="41" />
-      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Executor" count="260" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Executor" count="293" />
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="26" />
       <entry feature="execute.Application.Debug" count="2" />
       <entry feature="execute.Application.JRebel Debug" count="1" />
       <entry feature="execute.Application.JRebel Executor" count="2" />
-      <entry feature="execute.Application.Run" count="64" />
+      <entry feature="execute.Application.Run" count="65" />
       <entry feature="execute.JUnit.Run" count="13" />
       <entry feature="ide.settings.Appearance" count="12" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
@@ -193,16 +192,16 @@
       <entry feature="ide.settings.Schemas_and_DTDs" count="3" />
       <entry feature="ide.settings.Smart_Keys" count="6" />
       <entry feature="ide.settings.Updates" count="1" />
-      <entry feature="idea.caches.invalidated" count="4" />
-      <entry feature="ideaapp.started" count="84" />
+      <entry feature="idea.caches.invalidated" count="6" />
+      <entry feature="ideaapp.started" count="99" />
       <entry feature="spring.ModelRelatedProvider" count="1" />
       <entry feature="tips.of.the.day.next" count="6" />
       <entry feature="uml.ShowDiagram.JAVA" count="3" />
       <entry feature="uml.ShowDiagram.MODULES" count="2" />
       <entry feature="welcome.screen.WelcomeScreen.Configure" count="2" />
-      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="32" />
-      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="2" />
-      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="7" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="33" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="12" />
       <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
     </counts>
   </component>

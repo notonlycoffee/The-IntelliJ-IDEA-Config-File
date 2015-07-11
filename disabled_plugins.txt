@@ -1,2 +1,16 @@
-org.jetbrains.android
+com.intellij.seam.pageflow
+com.jetbrains.plugins.asp
+JBoss
+Jetty
+com.intellij.drools
+Geronimo
+JBPM
+AntSupport
+com.intellij.seam
+com.intellij.appengine
+Java EE: Web Services (JAX-WS)
 com.intellij.uiDesigner
+GlassFish
+CloudBees
+com.intellij.seam.pages
+org.jetbrains.android
