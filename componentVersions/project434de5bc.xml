@@ -1,38 +1,38 @@
 <versions>
-  <component name="ChangeListManager" version="1434522386177" />
-  <component name="ChangesViewManager" version="1434521426245" />
-  <component name="CompilerConfiguration" version="1434521426793" />
-  <component name="CreatePatchCommitExecutor" version="1434521426246" />
-  <component name="DaemonCodeAnalyzer" version="1434521426246" />
-  <component name="Encoding" version="1434521426246" />
-  <component name="EntryPointsManager" version="1434522386178" />
-  <component name="ExecutionTargetManager" version="1434521430126" />
-  <component name="FavoritesManager" version="1434521430126" />
-  <component name="FileEditorManager" version="1435640481389" />
-  <component name="IdProvider" version="1434521426248" />
-  <component name="IdeDocumentHistory" version="1435055593316" />
-  <component name="JRebel Project data" version="1434521426248" />
-  <component name="JsGulpfileManager" version="1434521426795" />
-  <component name="LogFilters" version="1434523900543" />
-  <component name="ProjectFrameBounds" version="1435676362859" />
-  <component name="ProjectLevelVcsManager" version="1434521426795" />
-  <component name="ProjectModuleManager" version="1434521426796" />
-  <component name="ProjectRootManager" version="1434521426250" />
-  <component name="ProjectView" version="1435680354671" />
-  <component name="PropertiesComponent" version="1435676362867" />
+  <component name="ChangeListManager" version="1436770127412" />
+  <component name="ChangesViewManager" version="1436769902788" />
+  <component name="CompilerConfiguration" version="1436769904470" />
+  <component name="CreatePatchCommitExecutor" version="1436769902789" />
+  <component name="DaemonCodeAnalyzer" version="1436769902789" />
+  <component name="Encoding" version="1436769902790" />
+  <component name="EntryPointsManager" version="1436770100425" />
+  <component name="ExecutionTargetManager" version="1436770100425" />
+  <component name="FavoritesManager" version="1436769904470" />
+  <component name="FileEditorManager" version="1436930484363" />
+  <component name="IdProvider" version="1436769902794" />
+  <component name="IdeDocumentHistory" version="1436929203696" />
+  <component name="JRebel Project data" version="1436769902794" />
+  <component name="JsGulpfileManager" version="1436769904504" />
+  <component name="LogFilters" version="1436771121908" />
+  <component name="ProjectFrameBounds" version="1436929389479" />
+  <component name="ProjectLevelVcsManager" version="1436769904505" />
+  <component name="ProjectModuleManager" version="1436769904505" />
+  <component name="ProjectRootManager" version="1436769902798" />
+  <component name="ProjectView" version="1436924876840" />
+  <component name="PropertiesComponent" version="1436920092679" />
   <component name="RecentsManager" version="1435048950229" />
-  <component name="RunManager" version="1435680354718" />
-  <component name="ShelveChangesManager" version="1434521426252" />
-  <component name="SvnConfiguration" version="1434527736856" />
-  <component name="TaskManager" version="1435680354718" />
-  <component name="TimeTrackingManager" version="1435680354718" />
-  <component name="ToolWindowManager" version="1435680354733" />
-  <component name="Vcs.Log.UiProperties" version="1434521430238" />
-  <component name="VcsContentAnnotationSettings" version="1434521426252" />
-  <component name="VcsDirectoryMappings" version="1434521426252" />
-  <component name="VcsManagerConfiguration" version="1434521426253" />
-  <component name="XDebuggerManager" version="1435053356902" />
+  <component name="RunManager" version="1436921414925" />
+  <component name="ShelveChangesManager" version="1436769902801" />
+  <component name="SvnConfiguration" version="1436920092684" />
+  <component name="TaskManager" version="1436930484373" />
+  <component name="TimeTrackingManager" version="1436930484373" />
+  <component name="ToolWindowManager" version="1436930484374" />
+  <component name="Vcs.Log.UiProperties" version="1436769904513" />
+  <component name="VcsContentAnnotationSettings" version="1436769902801" />
+  <component name="VcsDirectoryMappings" version="1436769902802" />
+  <component name="VcsManagerConfiguration" version="1436769902802" />
+  <component name="XDebuggerManager" version="1436769902803" />
   <component name="antWorkspaceConfiguration" version="1434522386211" />
-  <component name="editorHistoryManager" version="1435652079357" />
-  <component name="masterDetails" version="1435047706241" />
+  <component name="editorHistoryManager" version="1436930484378" />
+  <component name="masterDetails" version="1436924311215" />
 </versions>

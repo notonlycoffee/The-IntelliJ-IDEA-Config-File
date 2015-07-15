@@ -21,6 +21,10 @@
       <find>manager</find>
       <find>managers.jsp</find>
       <find>IndexServlet</find>
+      <find>classpath</find>
+      <find>extend</find>
+      <find>extension</find>
+      <find>resul</find>
     </findStrings>
     <replaceStrings>
       <replace>FUCK</replace>

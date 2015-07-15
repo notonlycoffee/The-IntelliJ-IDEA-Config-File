@@ -1,16 +1,16 @@
-com.intellij.seam.pageflow
 com.jetbrains.plugins.asp
-JBoss
-Jetty
 com.intellij.drools
-Geronimo
-JBPM
-AntSupport
-com.intellij.seam
+org.jetbrains.android
 com.intellij.appengine
 Java EE: Web Services (JAX-WS)
+Geronimo
+com.intellij.seam.pageflow
 com.intellij.uiDesigner
+JBoss
 GlassFish
-CloudBees
 com.intellij.seam.pages
-org.jetbrains.android
+CloudBees
+Jetty
+AntSupport
+com.intellij.seam
+JBPM

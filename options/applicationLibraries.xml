@@ -31,6 +31,22 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="dom4j-1.6.1">
+      <CLASSES>
+        <root url="jar://G:/开发库/dom4j-1.6.1/dom4j-1.6.1.jar!/" />
+        <root url="jar://G:/开发库/dom4j-1.6.1/lib/jaxen-1.1-beta-6.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jstl">
+      <CLASSES>
+        <root url="file://G:/开发库/jstl" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://G:/开发库/jstl" recursive="false" />
+    </library>
     <library name="mysql-connector-java-5.0.8-bin">
       <CLASSES>
         <root url="jar://G:/开发库/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8-bin.jar!/" />
