@@ -1,10 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>uri</find>
-      <find>&lt;uri</find>
-      <find>managers</find>
-      <find>dynaformtest</find>
       <find>form-beans</find>
       <find>REQUIRED</find>
       <find>params</find>
@@ -25,6 +21,16 @@
       <find>extend</find>
       <find>extension</find>
       <find>resul</find>
+      <find>conversionerror</find>
+      <find>-conversion</find>
+      <find>max</find>
+      <find>file</find>
+      <find>interceptor-ref</find>
+      <find>maxsize</find>
+      <find>include</find>
+      <find>inputName</find>
+      <find>downLoadFileName</find>
+      <find>instream</find>
     </findStrings>
     <replaceStrings>
       <replace>FUCK</replace>
