@@ -2,67 +2,12 @@
   <component name="StatisticsApplicationUsages">
     <group name="libraries">
       <project id="hellostruts" values="struts2" />
-      <project id="testidea" values="TransactionJavaee,EJB,JMS" />
       <project id="struts0716" values="struts2" />
+      <project id="testidea" values="JMS,EJB,TransactionJavaee" />
       <project id="helloStruts" values="struts2" />
-      <project id="labnext" values="struts2,spring-mvc" />
+      <project id="labnext" values="spring-mvc,struts2" />
       <project id="review" values="struts2" />
-      <project id="day26" values="TransactionJavaee,JMS,EJB" />
-    </group>
-    <group name="language-level">
-      <project id="bookstoretest" values="JDK_1_6" />
-      <project id="day24" values="JDK_1_6" />
-      <project id="TestFilter" values="JDK_1_6" />
-      <project id="Git_Test_project" values="JDK_1_6" />
-      <project id="struts0716" values="JDK_1_6" />
-      <project id="day29_mvc" values="JDK_1_6" />
-      <project id="helloStruts" values="JDK_1_6" />
-      <project id="TestStruts2" values="JDK_1_6" />
-      <project id="TestStruts1" values="JDK_1_6" />
-      <project id="Struts1" values="JDK_1_6" />
-      <project id="StudyIDEAForWeb" values="JDK_1_6" />
-      <project id="ServletThreePointZero" values="JDK_1_6" />
-      <project id="day24_proxy" values="JDK_1_6" />
-      <project id="mymyone" values="JDK_1_6" />
-      <project id="java_improve" values="JDK_1_6" />
-      <project id="TestServlet" values="JDK_1_6" />
-      <project id="hellostruts" values="JDK_1_6" />
-      <project id="MyTest" values="JDK_1_6" />
-      <project id="bookstore" values="JDK_1_6" />
-      <project id="StudyIDEA" values="JDK_1_6" />
-      <project id="testidea" values="JDK_1_6" />
-      <project id="strutstestlast" values="JDK_1_6" />
-      <project id="labnext" values="JDK_1_6" />
-      <project id="review" values="JDK_1_6" />
-      <project id="day26" values="JDK_1_6" />
-    </group>
-    <group name="vcs">
-      <project id="bookstoretest" values="Git" />
-      <project id="bookstore" values="Git" />
-    </group>
-    <group name="frameworks">
-      <project id="bookstoretest" values="web" />
-      <project id="TestFilter" values="web" />
-      <project id="Git_Test_project" values="web" />
-      <project id="struts0716" values="web" />
-      <project id="day29_mvc" values="web" />
-      <project id="helloStruts" values="web,Struts2" />
-      <project id="TestStruts2" values="struts,web" />
-      <project id="TestStruts1" values="struts,web" />
-      <project id="Struts1" values="struts,web" />
-      <project id="StudyIDEAForWeb" values="web" />
-      <project id="ServletThreePointZero" values="web" />
-      <project id="day24_proxy" values="web" />
-      <project id="mymyone" values="web" />
-      <project id="TestServlet" values="web" />
-      <project id="hellostruts" values="Struts2,web" />
-      <project id="MyTest" values="web" />
-      <project id="bookstore" values="web" />
-      <project id="testidea" values="struts,web" />
-      <project id="strutstestlast" values="struts,web" />
-      <project id="labnext" values="Struts2,web" />
-      <project id="review" values="Struts2,web" />
-      <project id="day26" values="struts,web" />
+      <project id="day26" values="JMS,TransactionJavaee,EJB" />
     </group>
     <group name="run-configuration-type">
       <project id="bookstoretest" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
@@ -78,14 +23,41 @@
       <project id="day24_proxy" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
       <project id="mymyone" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
       <project id="TestServlet" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
-      <project id="hellostruts" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
-      <project id="MyTest" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
       <project id="bookstore" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="MyTest" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="hellostruts" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
       <project id="testidea" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
       <project id="strutstestlast" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
       <project id="labnext" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
       <project id="review" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
-      <project id="day26" values="Application,#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="day26" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local,Application" />
+    </group>
+    <group name="language-level">
+      <project id="bookstoretest" values="JDK_1_6" />
+      <project id="day24" values="JDK_1_6" />
+      <project id="TestFilter" values="JDK_1_6" />
+      <project id="Git_Test_project" values="JDK_1_6" />
+      <project id="struts0716" values="JDK_1_6" />
+      <project id="day29_mvc" values="JDK_1_6" />
+      <project id="helloStruts" values="JDK_1_6" />
+      <project id="TestStruts2" values="JDK_1_6" />
+      <project id="TestStruts1" values="JDK_1_6" />
+      <project id="Struts1" values="JDK_1_6" />
+      <project id="StudyIDEAForWeb" values="JDK_1_6" />
+      <project id="ServletThreePointZero" values="JDK_1_6" />
+      <project id="day24_proxy" values="JDK_1_6" />
+      <project id="java_improve" values="JDK_1_6" />
+      <project id="mymyone" values="JDK_1_6" />
+      <project id="TestServlet" values="JDK_1_6" />
+      <project id="bookstore" values="JDK_1_6" />
+      <project id="MyTest" values="JDK_1_6" />
+      <project id="hellostruts" values="JDK_1_6" />
+      <project id="StudyIDEA" values="JDK_1_6" />
+      <project id="testidea" values="JDK_1_6" />
+      <project id="strutstestlast" values="JDK_1_6" />
+      <project id="labnext" values="JDK_1_6" />
+      <project id="review" values="JDK_1_6" />
+      <project id="day26" values="JDK_1_6" />
     </group>
     <group name="module type">
       <project id="bookstoretest" values="JAVA_MODULE" />
@@ -101,12 +73,12 @@
       <project id="StudyIDEAForWeb" values="JAVA_MODULE" />
       <project id="ServletThreePointZero" values="JAVA_MODULE" />
       <project id="day24_proxy" values="JAVA_MODULE" />
-      <project id="mymyone" values="JAVA_MODULE" />
       <project id="java_improve" values="JAVA_MODULE" />
+      <project id="mymyone" values="JAVA_MODULE" />
       <project id="TestServlet" values="JAVA_MODULE" />
-      <project id="hellostruts" values="JAVA_MODULE" />
-      <project id="MyTest" values="JAVA_MODULE" />
       <project id="bookstore" values="JAVA_MODULE" />
+      <project id="MyTest" values="JAVA_MODULE" />
+      <project id="hellostruts" values="JAVA_MODULE" />
       <project id="StudyIDEA" values="JAVA_MODULE" />
       <project id="testidea" values="JAVA_MODULE" />
       <project id="strutstestlast" values="JAVA_MODULE" />
@@ -114,66 +86,67 @@
       <project id="review" values="JAVA_MODULE" />
       <project id="day26" values="JAVA_MODULE" />
     </group>
-    <group name="file-type">
-      <project id="bookstoretest" values="UNKNOWN,Properties,Manifest,JSP,Eclipse,XML,JAVA,ARCHIVE,IDEA_MODULE,Images,PLAIN_TEXT" />
-      <project id="day24" values="XML,IDEA_MODULE,PLAIN_TEXT,UNKNOWN,JAVA" />
-      <project id="TestFilter" values="PLAIN_TEXT,JAVA,XML,UNKNOWN,JSP,IDEA_MODULE" />
-      <project id="Git_Test_project" values="JSP,XML,PLAIN_TEXT,IDEA_MODULE,UNKNOWN,HTML" />
-      <project id="struts0716" values="UNKNOWN,Native,ARCHIVE,Properties,JSP,Manifest,PLAIN_TEXT,XML,JAVA,IDEA_MODULE,Eclipse" />
-      <project id="day29_mvc" values="JSP,JAVA,PLAIN_TEXT,XML,IDEA_MODULE,UNKNOWN" />
-      <project id="helloStruts" values="PLAIN_TEXT,IDEA_MODULE,XML,ARCHIVE,JSP,UNKNOWN,JAVA" />
-      <project id="TestStruts2" values="JAVA,IDEA_MODULE,PLAIN_TEXT,JSP,XML,ARCHIVE,UNKNOWN" />
-      <project id="TestStruts1" values="JSP,IDEA_MODULE,UNKNOWN,XML,ARCHIVE" />
-      <project id="Struts1" values="XML,IDEA_MODULE,ARCHIVE,JSP,PLAIN_TEXT,UNKNOWN,JAVA" />
-      <project id="StudyIDEAForWeb" values="JSP,UNKNOWN,IDEA_MODULE,PLAIN_TEXT,HTML,XML" />
-      <project id="ServletThreePointZero" values="IDEA_MODULE,PLAIN_TEXT,UNKNOWN,JSP,XML,JAVA" />
-      <project id="day24_proxy" values="UNKNOWN,JSP,XML,IDEA_MODULE,JAVA,PLAIN_TEXT" />
-      <project id="mymyone" values="UNKNOWN,XML,JSP,IDEA_MODULE" />
-      <project id="java_improve" values="XML,IDEA_MODULE,PLAIN_TEXT,UNKNOWN,JAVA" />
-      <project id="TestServlet" values="JAVA,JSP,IDEA_MODULE,PLAIN_TEXT,UNKNOWN,XML" />
-      <project id="hellostruts" values="IDEA_MODULE,JAVA,XML,PLAIN_TEXT,JSP,UNKNOWN" />
-      <project id="MyTest" values="UNKNOWN,JSP,IDEA_MODULE,XML,PLAIN_TEXT,JAVA" />
-      <project id="bookstore" values="JSP,PLAIN_TEXT,Images,ARCHIVE,Manifest,IDEA_MODULE,JAVA,UNKNOWN,Eclipse,XML,Properties" />
-      <project id="StudyIDEA" values="XML,UNKNOWN,IDEA_MODULE,JAVA,HTML,PLAIN_TEXT,CSS" />
-      <project id="testidea" values="ARCHIVE,PLAIN_TEXT,JAVA,IDEA_MODULE,UNKNOWN,XML,JSP" />
-      <project id="strutstestlast" values="IDEA_MODULE,PLAIN_TEXT,JSP,ARCHIVE,XML,UNKNOWN" />
-      <project id="labnext" values="XML,UNKNOWN,ARCHIVE,SCSS,SWF,IDEA_MODULE,PLAIN_TEXT,JavaScript,Properties,Eclipse,Manifest,JSP,JAVA,HTML,JSON,Images,CSS" />
-      <project id="review" values="UNKNOWN,JSP,XML,PLAIN_TEXT,Properties,IDEA_MODULE,Images,Native,JAVA" />
-      <project id="day26" values="Properties,JSP,XML,UNKNOWN,PLAIN_TEXT,ARCHIVE,JAVA,IDEA_MODULE" />
+    <group name="vcs">
+      <project id="bookstoretest" values="Git" />
+      <project id="bookstore" values="Git" />
+    </group>
+    <group name="frameworks">
+      <project id="bookstoretest" values="web" />
+      <project id="TestFilter" values="web" />
+      <project id="Git_Test_project" values="web" />
+      <project id="struts0716" values="web" />
+      <project id="day29_mvc" values="web" />
+      <project id="helloStruts" values="Struts2,web" />
+      <project id="TestStruts2" values="struts,web" />
+      <project id="TestStruts1" values="struts,web" />
+      <project id="Struts1" values="struts,web" />
+      <project id="StudyIDEAForWeb" values="web" />
+      <project id="ServletThreePointZero" values="web" />
+      <project id="day24_proxy" values="web" />
+      <project id="mymyone" values="web" />
+      <project id="TestServlet" values="web" />
+      <project id="bookstore" values="web" />
+      <project id="MyTest" values="web" />
+      <project id="hellostruts" values="web,Struts2" />
+      <project id="testidea" values="web,struts" />
+      <project id="strutstestlast" values="struts,web" />
+      <project id="labnext" values="web,Struts2" />
+      <project id="review" values="Struts2,web" />
+      <project id="day26" values="web,struts" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="day24" values="JUnit,Application" />
+      <project id="day24" values="Application,JUnit" />
       <project id="java_improve" values="Application" />
       <project id="StudyIDEA" values="Application" />
       <project id="review" values="JavascriptDebugType" />
       <project id="day26" values="Application" />
     </group>
-    <group name="JavaScript versions">
-      <project id="bookstoretest" values="DEFAULT" />
-      <project id="day24" values="DEFAULT" />
-      <project id="TestFilter" values="DEFAULT" />
-      <project id="Git_Test_project" values="DEFAULT" />
-      <project id="struts0716" values="DEFAULT" />
-      <project id="day29_mvc" values="DEFAULT" />
-      <project id="helloStruts" values="DEFAULT" />
-      <project id="TestStruts2" values="DEFAULT" />
-      <project id="TestStruts1" values="DEFAULT" />
-      <project id="Struts1" values="DEFAULT" />
-      <project id="StudyIDEAForWeb" values="DEFAULT" />
-      <project id="ServletThreePointZero" values="DEFAULT" />
-      <project id="day24_proxy" values="DEFAULT" />
-      <project id="mymyone" values="DEFAULT" />
-      <project id="java_improve" values="DEFAULT" />
-      <project id="TestServlet" values="DEFAULT" />
-      <project id="hellostruts" values="DEFAULT" />
-      <project id="MyTest" values="DEFAULT" />
-      <project id="bookstore" values="DEFAULT" />
-      <project id="StudyIDEA" values="DEFAULT" />
-      <project id="testidea" values="DEFAULT" />
-      <project id="strutstestlast" values="DEFAULT" />
-      <project id="labnext" values="DEFAULT" />
-      <project id="review" values="DEFAULT" />
-      <project id="day26" values="DEFAULT" />
+    <group name="file-type">
+      <project id="bookstoretest" values="ARCHIVE,Manifest,IDEA_MODULE,Eclipse,JSP,Images,JAVA,UNKNOWN,XML,Properties,PLAIN_TEXT" />
+      <project id="day24" values="PLAIN_TEXT,UNKNOWN,IDEA_MODULE,JAVA,XML" />
+      <project id="TestFilter" values="UNKNOWN,XML,IDEA_MODULE,JSP,PLAIN_TEXT,JAVA" />
+      <project id="Git_Test_project" values="JSP,IDEA_MODULE,UNKNOWN,XML,HTML,PLAIN_TEXT" />
+      <project id="struts0716" values="Manifest,PLAIN_TEXT,JAVA,XML,Eclipse,IDEA_MODULE,UNKNOWN,ARCHIVE,Native,Properties,JSP" />
+      <project id="day29_mvc" values="JAVA,IDEA_MODULE,PLAIN_TEXT,XML,JSP,UNKNOWN" />
+      <project id="helloStruts" values="UNKNOWN,JAVA,JSP,IDEA_MODULE,ARCHIVE,XML,PLAIN_TEXT" />
+      <project id="TestStruts2" values="ARCHIVE,XML,IDEA_MODULE,UNKNOWN,PLAIN_TEXT,JSP,JAVA" />
+      <project id="TestStruts1" values="UNKNOWN,ARCHIVE,JSP,IDEA_MODULE,XML" />
+      <project id="Struts1" values="XML,JAVA,IDEA_MODULE,UNKNOWN,PLAIN_TEXT,JSP,ARCHIVE" />
+      <project id="StudyIDEAForWeb" values="XML,JSP,HTML,IDEA_MODULE,UNKNOWN,PLAIN_TEXT" />
+      <project id="ServletThreePointZero" values="UNKNOWN,JAVA,PLAIN_TEXT,XML,JSP,IDEA_MODULE" />
+      <project id="day24_proxy" values="PLAIN_TEXT,XML,IDEA_MODULE,JAVA,JSP,UNKNOWN" />
+      <project id="java_improve" values="PLAIN_TEXT,XML,JAVA,UNKNOWN,IDEA_MODULE" />
+      <project id="mymyone" values="IDEA_MODULE,XML,JSP,UNKNOWN" />
+      <project id="TestServlet" values="PLAIN_TEXT,JAVA,UNKNOWN,JSP,XML,IDEA_MODULE" />
+      <project id="bookstore" values="Properties,JSP,JAVA,Images,Manifest,Eclipse,XML,IDEA_MODULE,UNKNOWN,PLAIN_TEXT,ARCHIVE" />
+      <project id="MyTest" values="PLAIN_TEXT,JSP,XML,JAVA,UNKNOWN,IDEA_MODULE" />
+      <project id="hellostruts" values="JSP,XML,JAVA,UNKNOWN,PLAIN_TEXT,IDEA_MODULE" />
+      <project id="StudyIDEA" values="HTML,CSS,IDEA_MODULE,UNKNOWN,PLAIN_TEXT,JAVA,XML" />
+      <project id="testidea" values="UNKNOWN,PLAIN_TEXT,JSP,JAVA,ARCHIVE,XML,IDEA_MODULE" />
+      <project id="strutstestlast" values="XML,ARCHIVE,PLAIN_TEXT,UNKNOWN,JSP,IDEA_MODULE" />
+      <project id="labnext" values="PLAIN_TEXT,Manifest,Images,JavaScript,JSP,JSON,UNKNOWN,Eclipse,XML,SCSS,JAVA,ARCHIVE,HTML,CSS,Properties,SWF,IDEA_MODULE" />
+      <project id="review" values="XML,UNKNOWN,Native,JSP,Properties,PLAIN_TEXT,JAVA,IDEA_MODULE,Images" />
+      <project id="day26" values="XML,JSP,JAVA,ARCHIVE,PLAIN_TEXT,UNKNOWN,IDEA_MODULE,Properties" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="bookstoretest" values="Project,Project" />
@@ -189,18 +162,45 @@
       <project id="StudyIDEAForWeb" values="Project,Project" />
       <project id="ServletThreePointZero" values="Project,Project" />
       <project id="day24_proxy" values="Project,Project" />
-      <project id="mymyone" values="Project,Project" />
       <project id="java_improve" values="Project,Project" />
+      <project id="mymyone" values="Project,Project" />
       <project id="TestServlet" values="Project,Project" />
-      <project id="hellostruts" values="Project,Project" />
-      <project id="MyTest" values="Project,Project" />
       <project id="bookstore" values="Project,Project" />
+      <project id="MyTest" values="Project,Project" />
+      <project id="hellostruts" values="Project,Project" />
       <project id="StudyIDEA" values="Project,Project" />
       <project id="testidea" values="Project,Project" />
       <project id="strutstestlast" values="Project,Project" />
       <project id="labnext" values="Project,Project" />
       <project id="review" values="Project,Project" />
       <project id="day26" values="Project,Project" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="bookstoretest" values="DEFAULT" />
+      <project id="day24" values="DEFAULT" />
+      <project id="TestFilter" values="DEFAULT" />
+      <project id="Git_Test_project" values="DEFAULT" />
+      <project id="struts0716" values="DEFAULT" />
+      <project id="day29_mvc" values="DEFAULT" />
+      <project id="helloStruts" values="DEFAULT" />
+      <project id="TestStruts2" values="DEFAULT" />
+      <project id="TestStruts1" values="DEFAULT" />
+      <project id="Struts1" values="DEFAULT" />
+      <project id="StudyIDEAForWeb" values="DEFAULT" />
+      <project id="ServletThreePointZero" values="DEFAULT" />
+      <project id="day24_proxy" values="DEFAULT" />
+      <project id="java_improve" values="DEFAULT" />
+      <project id="mymyone" values="DEFAULT" />
+      <project id="TestServlet" values="DEFAULT" />
+      <project id="bookstore" values="DEFAULT" />
+      <project id="MyTest" values="DEFAULT" />
+      <project id="hellostruts" values="DEFAULT" />
+      <project id="StudyIDEA" values="DEFAULT" />
+      <project id="testidea" values="DEFAULT" />
+      <project id="strutstestlast" values="DEFAULT" />
+      <project id="labnext" values="DEFAULT" />
+      <project id="review" values="DEFAULT" />
+      <project id="day26" values="DEFAULT" />
     </group>
   </component>
   <component name="UsageTrigger">
@@ -210,7 +210,7 @@
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Coverage" count="1" />
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="71" />
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Debug" count="57" />
-      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Executor" count="414" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Executor" count="416" />
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="27" />
       <entry feature="execute.Application.Debug" count="2" />
       <entry feature="execute.Application.JRebel Debug" count="1" />
@@ -234,7 +234,7 @@
       <entry feature="ide.settings.Smart_Keys" count="6" />
       <entry feature="ide.settings.Updates" count="1" />
       <entry feature="idea.caches.invalidated" count="8" />
-      <entry feature="ideaapp.started" count="114" />
+      <entry feature="ideaapp.started" count="115" />
       <entry feature="spring.ModelRelatedProvider" count="1" />
       <entry feature="tips.of.the.day.next" count="6" />
       <entry feature="uml.ShowDiagram.JAVA" count="3" />
